@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @deen360
+- 👋 Hi, I’m @deen360 a Masters student in Industrial engineering at Ecole Centrale in Nantes 
 - 👀 I’m interested in machine learning and web development
-- 🌱 I’m currently learning  web development in order to learn how to share my machine learning models through servers
+- 🌱 I’m currently learning  web development and machine learning through documentations and open coursewares 
 - 💞️ I’m looking to collaborate on web development and machine learning projects for free
 - 📫 How to reach me kamaldeen32@gmail.com
 
