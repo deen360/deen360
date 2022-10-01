@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deen360 a Masters student in Industrial engineering at Ecole Centrale in Nantes 
-- 👀 I’m interested in machine learning and web development
+- 👀 I’m interested in Data Engineering, machine learning and web development
 - 🌱 I’m interested in making end to end data application, from ingestion up to analyics  and machine learning to help organizations make data driven business decisions 
 - 💞️ I’m looking to collaborate on data engineering project or machine learning projects for free
 - 📫 How to reach me kamaldeen32@gmail.com
